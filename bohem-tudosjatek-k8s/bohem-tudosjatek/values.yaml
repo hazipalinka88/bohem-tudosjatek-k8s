@@ -1,5 +1,5 @@
 image:
-  repository: docker.io/FELHASZNALONEV/bohem-tudosjatek
+  repository: docker.io/irimitamas/bohem-tudosjatek
   tag: latest
   pullPolicy: IfNotPresent
 
