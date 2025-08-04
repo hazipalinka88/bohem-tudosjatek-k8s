@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/FELHASZNALONEV/bohem-tudosjatek-k8s.git
+    repoURL: https://github.com/hazipalinka88/bohem-tudosjatek-k8s.git
     targetRevision: HEAD
     path: bohem-tudosjatek
     helm:
