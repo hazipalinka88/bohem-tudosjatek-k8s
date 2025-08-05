@@ -1,6 +1,6 @@
 image:
   repository: docker.io/irimitamas/bohem-tudosjatek
-  tag: latest
+  tag: v.0.0.1
   pullPolicy: IfNotPresent
 
 imagePullSecrets:
